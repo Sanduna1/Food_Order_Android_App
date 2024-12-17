@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="Register">REGISTER</string>
+    <string name="address">address</string>
+    <string name="phone_number">phone number</string>
+    <string name="click_to_logi">Click to logi</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="hellow">Hellow</string>
+    <string name="hellow_kohomadaa">Hellow Kohomadaa...</string>
+    <string name="log_out">LOG OUT</string>
+</resources>

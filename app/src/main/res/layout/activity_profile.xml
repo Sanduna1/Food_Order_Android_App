@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/yellow"
+    android:layout_height="match_parent"
+    tools:context=".Activity.ProfileActivity">
+
+    <TextView
+    android:id="@+id/user_details"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/hellow_kohomadaa" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/logOutBtn"
+        android:background="@drawable/red_bg_full_corner"
+        android:text="@string/log_out"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
